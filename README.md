@@ -43,3 +43,24 @@
    npm run dev
    # 或
    yarn dev
+3. 控制台会显示本地地址，例如：text➜  Local:   http://localhost:5173/
+➜  Network: http://192.168.xxx.xxx:5173/
+4. 在手机浏览器输入 Network 地址（如 http://192.168.xxx.xxx:5173/），即可实时访问项目。
+
+## 快速启动
+```
+# 克隆仓库
+git clone https://github.com/hsiaoofa-wei/freshbite.git
+
+# 进入项目目录
+cd freshbite
+
+# 安装依赖
+npm install
+# 或 yarn install
+
+# 启动开发服务器
+npm run dev
+访问 http://localhost:5173/ 即可体验。
+```
+欢迎 Star & Fork！如果对 Vue 3 前端电商项目感兴趣，欢迎交流～
